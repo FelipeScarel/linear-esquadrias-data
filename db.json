@@ -16,10 +16,10 @@
       "id": 1,
       "name": "Ripado 20x20",
       "slug": "ripado-20x20",
-      "code": null,
+      "code": "",
       "category": "Ripado",
-      "short_description": null,
-      "description": null,
+      "short_description": "",
+      "description": "",
       "width": null,
       "height": null,
       "depth": null,
@@ -37,7 +37,7 @@
         }
       ],
       "created_at": null,
-      "updated_at": "2026-09-14T19:15:21.120Z"
+      "updated_at": "2026-09-14T19:15:24.256Z"
     },
     {
       "id": 2,
