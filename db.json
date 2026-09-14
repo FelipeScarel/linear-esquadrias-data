@@ -21,10 +21,10 @@
       "category": "Ripado",
       "short_description": "",
       "description": "",
-      "width": null,
-      "height": null,
-      "depth": null,
-      "thickness": null,
+      "width": 110,
+      "height": 5940,
+      "depth": 20,
+      "thickness": 20,
       "unit": "mm",
       "published": 1,
       "model_filename": "cf1d9565-db5d-444d-b84e-0b00206eaebb.glb",
@@ -38,7 +38,7 @@
         }
       ],
       "created_at": null,
-      "updated_at": "2026-09-14T19:15:24.256Z"
+      "updated_at": "2026-09-14T19:34:29.822Z"
     },
     {
       "id": 2,
