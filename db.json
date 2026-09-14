@@ -93,33 +93,6 @@
       ],
       "created_at": null,
       "updated_at": "2026-09-14T19:59:28.163Z"
-    },
-    {
-      "id": 101,
-      "name": "Teste Online",
-      "slug": "teste-online",
-      "code": null,
-      "category": "Perfil",
-      "short_description": null,
-      "description": null,
-      "width": 20,
-      "height": 20,
-      "depth": null,
-      "thickness": null,
-      "unit": "mm",
-      "published": 0,
-      "model_filename": null,
-      "specs": [
-        {
-          "id": 102,
-          "label": "Material",
-          "value": "Alum�nio",
-          "sort_order": 0
-        }
-      ],
-      "images": [],
-      "created_at": "2026-09-14T18:56:55.471Z",
-      "updated_at": "2026-09-14T18:56:55.471Z"
     }
   ]
 }
