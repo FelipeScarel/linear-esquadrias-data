@@ -19,7 +19,7 @@
       "thickness": null,
       "unit": "mm",
       "published": 1,
-      "model_filename": null,
+      "model_filename": "bf2bb428-222a-447c-aacf-93bd299af855.glb",
       "specs": [],
       "images": [
         {
@@ -30,7 +30,7 @@
         }
       ],
       "created_at": null,
-      "updated_at": null
+      "updated_at": "2026-09-14T18:57:34.149Z"
     },
     {
       "id": 2,
