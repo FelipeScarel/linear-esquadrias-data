@@ -1,5 +1,5 @@
 {
-  "seq": 108,
+  "seq": 109,
   "sessions": [
     "68c0b3033302849d3a1eddb177a62fbcbc72472ca194bb418aff369655b9c5b3",
     "0bab330a34af5e766137e4f6cdb97fbf486192b6fbcfa7a9033d927045c89124",
@@ -44,18 +44,25 @@
       "id": 2,
       "name": "Ripado Padrão Linear",
       "slug": "ripado-padrao-linear",
-      "code": null,
+      "code": "",
       "category": "Ripado",
-      "short_description": null,
-      "description": null,
-      "width": null,
-      "height": null,
-      "depth": null,
-      "thickness": null,
+      "short_description": "",
+      "description": "",
+      "width": 180,
+      "height": 5940,
+      "depth": 15,
+      "thickness": 30,
       "unit": "mm",
       "published": 1,
       "model_filename": null,
-      "specs": [],
+      "specs": [
+        {
+          "id": 109,
+          "label": "19-1078D",
+          "value": "ALUMÍNIO",
+          "sort_order": 0
+        }
+      ],
       "images": [
         {
           "id": 108,
@@ -65,7 +72,7 @@
         }
       ],
       "created_at": null,
-      "updated_at": null
+      "updated_at": "2026-09-14T20:08:30.838Z"
     },
     {
       "id": 3,
