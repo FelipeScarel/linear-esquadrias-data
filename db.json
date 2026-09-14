@@ -1,6 +1,8 @@
 {
   "seq": 100,
-  "sessions": [],
+  "sessions": [
+    "68c0b3033302849d3a1eddb177a62fbcbc72472ca194bb418aff369655b9c5b3"
+  ],
   "profiles": [
     {
       "id": 1,
