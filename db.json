@@ -1,5 +1,5 @@
 {
-  "seq": 102,
+  "seq": 103,
   "sessions": [
     "68c0b3033302849d3a1eddb177a62fbcbc72472ca194bb418aff369655b9c5b3",
     "0bab330a34af5e766137e4f6cdb97fbf486192b6fbcfa7a9033d927045c89124"
@@ -21,7 +21,14 @@
       "published": 1,
       "model_filename": null,
       "specs": [],
-      "images": [],
+      "images": [
+        {
+          "id": 103,
+          "filename": "21b69c0f-821d-42fb-a48c-7d561f6b3dfa.png",
+          "type": "principal",
+          "sort_order": 0
+        }
+      ],
       "created_at": null,
       "updated_at": null
     },
