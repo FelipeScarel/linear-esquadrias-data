@@ -1,5 +1,5 @@
 {
-  "seq": 118,
+  "seq": 119,
   "sessions": [
     "68c0b3033302849d3a1eddb177a62fbcbc72472ca194bb418aff369655b9c5b3",
     "0bab330a34af5e766137e4f6cdb97fbf486192b6fbcfa7a9033d927045c89124",
@@ -42,6 +42,12 @@
           "filename": "b3138155-2327-4172-b001-40c1b0ce404b.png",
           "type": "galeria",
           "sort_order": 1
+        },
+        {
+          "id": 119,
+          "filename": "eff6bbb4-0bcd-4bbb-bb8f-6fc4446c7b0d.png",
+          "type": "galeria",
+          "sort_order": 2
         }
       ],
       "created_at": null,
