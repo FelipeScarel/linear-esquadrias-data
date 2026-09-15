@@ -1,5 +1,5 @@
 {
-  "seq": 110,
+  "seq": 111,
   "sessions": [
     "68c0b3033302849d3a1eddb177a62fbcbc72472ca194bb418aff369655b9c5b3",
     "0bab330a34af5e766137e4f6cdb97fbf486192b6fbcfa7a9033d927045c89124",
@@ -58,7 +58,7 @@
       "model_filename": null,
       "specs": [
         {
-          "id": 109,
+          "id": 111,
           "label": "19-1078D",
           "value": "ALUMÍNIO",
           "sort_order": 0
@@ -73,7 +73,7 @@
         }
       ],
       "created_at": null,
-      "updated_at": "2026-09-14T20:08:30.838Z"
+      "updated_at": "2026-09-15T11:08:51.382Z"
     },
     {
       "id": 3,
