@@ -1,5 +1,5 @@
 {
-  "seq": 120,
+  "seq": 121,
   "sessions": [
     "68c0b3033302849d3a1eddb177a62fbcbc72472ca194bb418aff369655b9c5b3",
     "0bab330a34af5e766137e4f6cdb97fbf486192b6fbcfa7a9033d927045c89124",
@@ -20,8 +20,8 @@
       "slug": "ripado-20x20",
       "code": "",
       "category": "Ripado",
-      "short_description": "",
-      "description": "",
+      "short_description": "Ripado de alumínio 20 x 20 mm, indicado para revestimentos e painéis arquitetônicos.",
+      "description": "Ripado em alumínio extrudado, seção 20 x 20 mm (RAL 689) Indicado para composição de fachadas, painéis, revestimentos e elementos decorativos, proporcionando um visual moderno, uniforme e de baixa manutenção.",
       "width": 110,
       "height": 5940,
       "depth": 20,
@@ -29,7 +29,14 @@
       "unit": "mm",
       "published": 1,
       "model_filename": "dcc5357e-e6f0-4c3f-a51e-13b50b1cf978.glb",
-      "specs": [],
+      "specs": [
+        {
+          "id": 121,
+          "label": "RIPADO 20 X 20",
+          "value": "RAL 689",
+          "sort_order": 0
+        }
+      ],
       "images": [
         {
           "id": 104,
@@ -57,7 +64,7 @@
         }
       ],
       "created_at": null,
-      "updated_at": "2026-09-14T19:53:23.587Z"
+      "updated_at": "2026-09-15T11:34:13.608Z"
     },
     {
       "id": 2,
